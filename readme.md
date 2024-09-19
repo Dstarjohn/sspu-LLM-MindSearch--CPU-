@@ -50,31 +50,31 @@ python frontend/mindsearch_gradio.py
 
 ```
 
-![](.\image\3.png)
+![](./image/3.png)
 
 打开gradio 自动创建的二级域名[URL 地址](https://6af4cab6a65b06dec6.gradio.live/)，就可以体验了
 
-![](.\image\1.png)
+![](./image/1.png)
 
 ## 部署到 HuggingFace Space
 
 首先进入到[huggface_spaces](https://huggingface.co/spaces) ，并点击 Create new Space，如下图所示
 
-![](.\image\10.png)
+![](./image/10.png)
 
-![](.\image\11.png)
+![](./image/11.png)
 
 
 
-![](.\image\5.png)
+![](./image/5.png)
 
 然后直接下拉到下面，选择 New secrets，name 一栏输入 SILICON_API_KEY，value 一栏输入你的 API Key 的内容
 
-![](.\image\6.png)
+![](./image/6.png)
 
 **这里特别注意，我们的Name设置为SILICON_API_KEY，下面的key就是硅基流动的那个key，直接cv过来即可，这里硅基流动 API 的相关配置已经集成在了 MindSearch 中，所以我们不需要再去修改 `/path/to/MindSearch/mindsearch/models.py` 加上调用硅基流动 API 的相关配置了**
 
-![](.\image\7.png)
+![](./image/7.png)
 
 
 
@@ -283,18 +283,18 @@ git push origin
 
 如果是权限问题记得创建这个token令牌并且开放写入权限。
 
-![](.\image\8.png)
+![](./image/8.png)
 
-![](.\image\13.png)
+![](./image/13.png)
 
 这是push后的仓库文件
 
-![](.\image\12.png)
+![](./image/12.png)
 
 
 
 然后皆可以愉快的访问啦
 
-![](.\image\9.png)
+![](./image/9.png)
 
 部署体验地址：[**LX_HF**的MIndSearch](https://huggingface.co/spaces/dstars/MIndSearch)
