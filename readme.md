@@ -14,7 +14,7 @@ HuggingFace space官方体验：[体验地址](https://huggingface.co/spaces/Sma
 
 在完成注册后，打开 https://cloud.siliconflow.cn/account/ak 来准备 API Key。首先创建新 API 密钥，然后点击密钥进行复制，以备后续使用。
 
-![](.\image\2.png)
+![](./image/2.png)
 
 ## github
 
