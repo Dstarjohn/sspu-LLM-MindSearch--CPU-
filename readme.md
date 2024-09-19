@@ -1,8 +1,8 @@
 #  MindSearch CPU-only 版部署
 
-之前在彩蛋岛的任务中用到了DuckDuckGoSearch 搜索引擎，这个需要开魔法才能访问，很多小伙伴卡在网络搭建部署这块儿，这节内容使用 HuggingFace space +硅基流动的 API Key的方式部署。本次任务带大家一起完成HuggingFace space 这种部署方式。感兴趣之前搭建的方式可能需要找找开源的魔法，可参考我之前的文章，https://github.com/Dstarjohn/sspu-LLM-MIndSearch
+之前在彩蛋岛的任务中用到了DuckDuckGoSearch 搜索引擎，这个需要魔法才能访问，很多小伙伴卡在网络搭建部署这块儿，这节内容使用 HuggingFace space +硅基流动的 API Key的方式部署。本次任务带大家一起完成HuggingFace space 这种部署方式。感兴趣之前搭建的方式可能需要找找开源的魔法，可参考我之前的文章，https://github.com/Dstarjohn/sspu-LLM-MIndSearch
 
-HuggingFace space：[体验地址](https://huggingface.co/spaces/SmartFlowAI/MindSearch_X_SiliconFlow)
+HuggingFace space官方体验：[体验地址](https://huggingface.co/spaces/SmartFlowAI/MindSearch_X_SiliconFlow)
 
 # 部署流程
 
